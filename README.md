@@ -4,6 +4,10 @@ University Course Registration System for CP317B Software Engineering
 
 **CP317B Software Engineering · Group 7 · Fall 2026**
 
+Collaborators:
+
+Ali Noormohammadi, Gursimran Deol, Oneel Jaba, Milap Devang Shah
+
 A university course registration portal being developed as a group software engineering project. Students will be able to find course sections, register or withdraw, and view their schedules. Administrators will manage the information and rules that make registration possible.
 
 > **Project status:** Planning and design. The repository does not contain a runnable application yet.
